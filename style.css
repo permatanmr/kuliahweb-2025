@@ -1,0 +1,27 @@
+
+
+.deskripsi {
+  font-size: 1.2em;
+  line-height: 1.5;
+  color: red !important;
+}
+
+#deskripsi {
+  font-style: italic;
+  color: blue;
+}
+
+.post-img {
+  width: 100% ;
+  height: auto;
+}
+
+body {
+  margin: 10;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
